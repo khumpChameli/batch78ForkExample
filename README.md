@@ -1,1 +1,1 @@
-# batch78ForkExample
+This is a project to demonstrate fork and pull request process
